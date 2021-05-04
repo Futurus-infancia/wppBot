@@ -1,0 +1,23 @@
+{
+  "name": "wppBot",
+  "version": "1.0.0",
+  "description": "- [Creating Client](https://orkestral.github.io/venom/pages/Getting%20Started/creating-client.html)\r - [Client API](https://orkestral.github.io/venom/classes/whatsapp.html)\r - [Messaging API](https://orkestral.github.io/venom/pages/Getting%20Started/basic-functions.html)\r - [Sample Bot](https://www.youtube.com/watch?v=m1-CD2B01a4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Futurus-infancia/wppBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Futurus-infancia/wppBot/issues"
+  },
+  "homepage": "https://github.com/Futurus-infancia/wppBot#readme",
+  "dependencies": {
+    "venom-bot": "^3.0.15"
+  }
+}
