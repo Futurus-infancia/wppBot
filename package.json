@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Futurus-infancia/wppBot#readme",
   "dependencies": {
+    "sequelize": "^6.6.2",
+    "sequelize-cockroachdb": "^6.0.0-beta.0",
     "venom-bot": "^3.0.15"
   }
 }
